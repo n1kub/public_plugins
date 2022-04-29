@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tensorbox_photoscan\n"
+"POT-Creation-Date: 2017-06-22 16:21+0300\n"
+"PO-Revision-Date: 2017-06-22 16:21+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: evaluate.py:102 evaluate.py:104
+msgid "Plugins"
+msgstr "Плагины"
+
+#: evaluate.py:102 evaluate.py:104
+msgid "Marker finder"
+msgstr "Поиск маркеров"
+
+#: evaluate.py:102
+msgid "Red-White"
+msgstr "Красно-белые"
+
+#: evaluate.py:104
+msgid "Circle"
+msgstr "Круглые"
+
+#~ msgid "Color error"
+#~ msgstr "Ошибка цвета"
+
+#~ msgid "Not valid color: "
+#~ msgstr "Невалидный цвет:"
+
+#~ msgid "Error"
+#~ msgstr "Ошибка"
+
+#~ msgid "Please open document which you want to work with!"
+#~ msgstr "Откройте документ, с которым хотите работать"
+
+#~ msgid "No camera selected"
+#~ msgstr "Не выбрана камера"
+
+#~ msgid "Please select camera you want to work with"
+#~ msgstr "Выберите камеру, с которой хотите работать"
